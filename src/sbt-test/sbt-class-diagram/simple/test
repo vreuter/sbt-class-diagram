@@ -1,9 +1,3 @@
-> classDiagram scalaz.\/
 $ pause
-> show classDiagramDot scala.collection.immutable.List
-> classDiagram scala.collection.immutable.List
-$ pause
-> classDiagram scalaz.MonadPlus scalaz.ComonadStore scalaz.Traverse1 scalaz.IsEmpty scalaz.MonadReader scalaz.MonadState scalaz.MonadError scalaz.MonadListen scalaz.Nondeterminism scalaz.Divisible scalaz.BindRec
-$ pause
-> classDiagram scalaz.Enum scalaz.Bitraverse scalaz.Choice scalaz.Arrow scalaz.Associative scalaz.ProChoice
+> classDiagram scalaz.MonadPlus scalaz.ComonadStore scalaz.Traverse1 scalaz.IsEmpty scalaz.MonadReader scalaz.MonadState scalaz.MonadError scalaz.MonadListen scalaz.Nondeterminism scalaz.Divisible scalaz.BindRec scalaz.Codivide scalaz.ContravariantDerives scalaz.Coapplicative scalaz.CovariantDerives scalaz.ApplicativeDivisible scalaz.CoapplicativeCodivide scalaz.Derives
 $ pause
